@@ -1,0 +1,9 @@
+{
+  "name": "Thorax Demo",
+  "description": "Demo app to play with thorax and node js",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.1.0"
+  }
+}
